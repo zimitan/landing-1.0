@@ -1,0 +1,32 @@
+nav {
+width: 100%;
+background-color: #056fab;
+}
+.header_navigation {
+background-color: #056fab;
+display: flex;
+align-items: center;
+justify-content: space-between;
+	width: 75%;
+	margin: auto;
+}
+.header_logotip {
+	display: flex;
+}
+.header_logotip_image {
+	width: 100%;
+	padding-left: 20px;
+	height: auto;
+}
+.header_navigation_link a{
+	text-decoration: none;
+	color: white;
+	font-size: 1.3vw;
+	margin-left: 25px
+}
+.navigation_phone {
+	display: flex;
+	justify-content: right;
+	color: white;
+	font-size: 1.3vw;
+}
